@@ -14,7 +14,7 @@ Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Gro
 > Former Associate Software Developer at [**CatalystOne**](https://www.catalystone.com/)
 
 ## RESUME 👨‍💻
-📰 [![RESUME][(Resume)]][RESUME]
+📰 [RESUME][RESUME]
 
 
 ## My Absolute Favorites 💖
@@ -27,9 +27,9 @@ Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Gro
 
 ## My College Projects 👨‍💻
 
-- ⚡ [SIH Project][SIH Project](SIH Project)
-- ⚡ [Hospital System Project][Hospital System Project](Hospital System)
-- ⚡ [Mind Reader Project][Mind Reader Project](Mind Reader)
+- ⚡ [SIH Project][SIH Project]
+- ⚡ [Hospital System Project][Hospital System Project]
+- ⚡ [Mind Reader Project][Mind Reader Project]
 
 
 ## Thank you! 🙏
