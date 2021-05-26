@@ -1,7 +1,7 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Shubham — a **Associate Software Engineer** at **Optum, UnitedHealth Group** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Group** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, technology, business, entrepreneurship. ✌💖
 
 - 🌱 JAVA Lover💖
 - 🔭 I’m currently brushing my Data Structures and Alorithms, check out my Algorithm repository.
@@ -14,7 +14,7 @@ Hi, I'm Shubham — a **Associate Software Engineer** at **Optum, UnitedHealth G
 > Former Associate Software Developer at [**CatalystOne**](https://www.catalystone.com/)
 
 ## RESUME 👨‍💻
-📰 [RESUME][RESUME](Resume)
+📰 [RESUME(Resume)][RESUME]
 
 
 ## My Absolute Favorites 💖
