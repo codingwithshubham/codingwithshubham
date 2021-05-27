@@ -48,7 +48,7 @@ Thanks for reading about me. You can connect with me on ..
 [RESUME]: https://drive.google.com/file/d/17fFlnC8FPrQsm_wXxrL7TRthbyubGUKP/view?usp=sharing
 [Algorithm repository]: https://github.com/codingwithshubham/Algorithm
 
-[1.1]: https://github.com/codingwithshubham/codingwithshubham/tree/main/icons/icons8-linkedin-48.png (linkedin icon with padding)
+[1.1]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg (linkedin icon with padding)
 [1]: https://www.linkedin.com/in/er-shubham-singla/
 
 <!--
