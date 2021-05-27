@@ -11,6 +11,7 @@ Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Gro
 
 [![linkedin er-shubham-singla][linkedin image]][linkedin]
 [![github codingwithshubham][github image]][github]
+[![leetcode codingwithshubham][leetcode image]][leetcode]
 
 
 ## Work Experience 👨‍💻
@@ -56,11 +57,13 @@ Thanks for reading about me. You can connect with me on:
 
 [![linkedin er-shubham-singla][linkedin image]][linkedin]
 [![github codingwithshubham][github image]][github]
+[![leetcode codingwithshubham][leetcode image]][leetcode]
 
 
 <!-- LINKS -->
 [github]: https://github.com/codingwithshubham
 [linkedin]: https://www.linkedin.com/in/er-shubham-singla/
+[leetcode]: https://leetcode.com/shubhamsingla/
 [Hospital System Project]: https://youtu.be/gBgZ-SzhUJ0
 [Mind Reader Project]: https://youtu.be/JSvPPCyr5kQ
 [SIH Project]: https://youtu.be/L1S7EkTRQ4U
@@ -68,6 +71,7 @@ Thanks for reading about me. You can connect with me on:
 [Algorithm repository]: https://github.com/codingwithshubham/Algorithm
 
 [linkedin image]: https://github.com/codingwithshubham/codingwithshubham/blob/1e5948bbf6527cf54ffee0e41a868e3f0a2b78de/icons/icons8-linkedin-48.png (linkedin)
+[github image]: https://github.com/codingwithshubham/codingwithshubham/blob/48af0c878f6116332e4b25745984c8c94d8d5cba/icons/icons8-github-48.png (github)
 [github image]: https://github.com/codingwithshubham/codingwithshubham/blob/48af0c878f6116332e4b25745984c8c94d8d5cba/icons/icons8-github-48.png (github)
 
 
