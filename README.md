@@ -57,7 +57,9 @@ Thanks for reading about me. You can connect with me on:
 
 [![linkedin er-shubham-singla][linkedin image]][linkedin]
 [![github codingwithshubham][github image]][github]
-[![leetcode shubhamsingla][leetcode image]][leetcode]
+[![leetcode shubhamsingla][<img align="left" alt="shubhamsingla" width="22px" src="https://github.com/codingwithshubham/codingwithshubham/blob/eedb0c31c34d3f9ed3b60c7cef068e59b3f40d37/icons/LeetCode_logo_black.png" />(leetcode)]][leetcode]
+[<img align="left" alt="shubhamsingla" width="22px" src="https://github.com/codingwithshubham/codingwithshubham/blob/eedb0c31c34d3f9ed3b60c7cef068e59b3f40d37/icons/LeetCode_logo_black.png" />][leetcode]
+[<img align="left" alt="shubhamsingla" width="22px" src="https://github.com/codingwithshubham/codingwithshubham/blob/eedb0c31c34d3f9ed3b60c7cef068e59b3f40d37/icons/LeetCode_logo_black.png" /> (leetcode)][leetcode]
 
 
 <!-- LINKS -->
