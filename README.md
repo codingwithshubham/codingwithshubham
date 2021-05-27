@@ -9,13 +9,13 @@ Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Gro
 
 ## Work Experience 👨‍💻
 
-> Associate Software Engineer at [**Optum, UnitedHealth Group**][https://www.optum.com/] ⭐
+> Associate Software Engineer at [**Optum, UnitedHealth Group**](https://www.optum.com/) ⭐
 
-> Former Associate Software Developer at [**CatalystOne Solutions**][https://www.catalystone.com/]
+> Former Associate Software Developer at [**CatalystOne Solutions**](https://www.catalystone.com/)
 
 ## RESUME 📰
 ✨ [RESUME][RESUME]
-[![linkedin er-shubham-singla][1.1]][1]
+[![linkedin er-shubham-singla][1.1]][linkedin]
 
 
 ## My Absolute Favorites 💖
@@ -48,8 +48,7 @@ Thanks for reading about me. You can connect with me on ..
 [RESUME]: https://drive.google.com/file/d/17fFlnC8FPrQsm_wXxrL7TRthbyubGUKP/view?usp=sharing
 [Algorithm repository]: https://github.com/codingwithshubham/Algorithm
 
-[1.1]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg (linkedin icon with padding)
-[1]: https://www.linkedin.com/in/er-shubham-singla/
+[1.1]: https://github.com/codingwithshubham/codingwithshubham/blob/1e5948bbf6527cf54ffee0e41a868e3f0a2b78de/icons/icons8-linkedin-48.png (linkedin)
 
 <!--
 **codingwithshubham/codingwithshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
