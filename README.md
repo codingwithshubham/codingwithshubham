@@ -1,4 +1,6 @@
-# 😍 to Code - Software Engineer & Enthusiast!
+<!-- Don't remove this --- https://github.com/codingwithshubham -->
+
+# 😍 to Code - Software Engineer & Learner!
 
 
 Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Group** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on softwares, technology, business, entrepreneurship. ✌💖
@@ -7,15 +9,19 @@ Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Gro
 - 🔭 I’m currently brushing my Data Structures and Alorithms, check out my [Algorithm repository][Algorithm repository].
 - ⚡ Fun fact: I love to draw and play chess.
 
+[![linkedin er-shubham-singla][linkedin image]][linkedin]
+[![github codingwithshubham][github image]][github]
+
+
 ## Work Experience 👨‍💻
 
 > Associate Software Engineer at [**Optum, UnitedHealth Group**](https://www.optum.com/) ⭐
 
 > Former Associate Software Developer at [**CatalystOne Solutions**](https://www.catalystone.com/)
 
+
 ## RESUME 📰
 ✨ [RESUME][RESUME]
-[![linkedin er-shubham-singla][1.1]][linkedin]
 
 
 ## My Absolute Favorites 💖
@@ -26,6 +32,7 @@ Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Gro
 
 🍕 _HACKATHONS_ & problem solving.
 
+
 ## My College Projects 👨‍💻
 
 - ⚡ [SIH Project][SIH Project]
@@ -33,13 +40,25 @@ Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Gro
 - ⚡ [Mind Reader Project][Mind Reader Project]
 
 
+## How To Make a Similar Overview Page for your GitHub? 😎
+
+1. Fork this repo.
+2. Edit the README.md file with your info.
+3. Rename your repo to your github username in settings tab.(for example my username is codingwithshubham)
+4. You made it!
+
+Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff.
+
+
 ## Thank you! 🙏
 
-Thanks for reading about me. You can connect with me on ..
+Thanks for reading about me. You can connect with me on:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![linkedin er-shubham-singla][linkedin image]][linkedin]
+[![github codingwithshubham][github image]][github]
 
 
+<!-- LINKS -->
 [github]: https://github.com/codingwithshubham
 [linkedin]: https://www.linkedin.com/in/er-shubham-singla/
 [Hospital System Project]: https://youtu.be/gBgZ-SzhUJ0
@@ -48,19 +67,8 @@ Thanks for reading about me. You can connect with me on ..
 [RESUME]: https://drive.google.com/file/d/17fFlnC8FPrQsm_wXxrL7TRthbyubGUKP/view?usp=sharing
 [Algorithm repository]: https://github.com/codingwithshubham/Algorithm
 
-[1.1]: https://github.com/codingwithshubham/codingwithshubham/blob/1e5948bbf6527cf54ffee0e41a868e3f0a2b78de/icons/icons8-linkedin-48.png (linkedin)
+[linkedin image]: https://github.com/codingwithshubham/codingwithshubham/blob/1e5948bbf6527cf54ffee0e41a868e3f0a2b78de/icons/icons8-linkedin-48.png (linkedin)
+[github image]: https://github.com/codingwithshubham/codingwithshubham/blob/48af0c878f6116332e4b25745984c8c94d8d5cba/icons/icons8-github-48.png (github)
 
-<!--
-**codingwithshubham/codingwithshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Don't remove this --- https://github.com/codingwithshubham -->
