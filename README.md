@@ -27,7 +27,7 @@ Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Gro
 
 ## My Absolute Favorites 💖
 
-🦄 I love _CODING_.
+🦄 _CODING_.
 
 👨‍💻 Love to _BUILD_ new things.
 
