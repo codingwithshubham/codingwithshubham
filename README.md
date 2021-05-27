@@ -15,7 +15,7 @@ Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Gro
 
 ## RESUME 📰
 ✨ [RESUME][RESUME]
-[[1.1]][1]
+[1.1][1]
 
 
 ## My Absolute Favorites 💖
