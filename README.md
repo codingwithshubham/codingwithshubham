@@ -3,9 +3,10 @@
 # 😍 to Code - Software Engineer & Learner!
 
 
-Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Group** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on softwares, technology, business, entrepreneurship. ✌💖
+Hi, I'm Shubham — **Associate Software Engineer** at **Optum, UnitedHealth Group**.
+My working principle is learning by doing. Always up for a discussion on softwares, technology, business.
 
-- 😄 JAVA Lover 💖
+- 😄 JAVA Lover💖
 - 🔭 I’m currently brushing my Data Structures and Alorithms, check out my [Algorithm repository][Algorithm repository].
 - ⚡ Fun fact: I love to draw and play chess.
 
@@ -64,10 +65,10 @@ Thanks for reading about me. You can connect with me on:
 [github]: https://github.com/codingwithshubham
 [linkedin]: https://www.linkedin.com/in/er-shubham-singla/
 [leetcode]: https://leetcode.com/shubhamsingla/
-[Hospital System Project]: https://youtu.be/gBgZ-SzhUJ0
-[Mind Reader Project]: https://youtu.be/JSvPPCyr5kQ
-[SIH Project]: https://youtu.be/L1S7EkTRQ4U
-[RESUME]: https://drive.google.com/file/d/17fFlnC8FPrQsm_wXxrL7TRthbyubGUKP/view?usp=sharing
+[Hospital System Project]:
+[Mind Reader Project]: 
+[SIH Project]: 
+[RESUME]: https://drive.google.com/file/d/13nIHK3-NtkbrbSRmhadtjJzEi2YfS1gB/view?usp=sharing
 [Algorithm repository]: https://github.com/codingwithshubham/Algorithm
 [readme repository]: https://github.com/codingwithshubham/codingwithshubham
 
