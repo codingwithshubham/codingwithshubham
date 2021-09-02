@@ -37,9 +37,9 @@ My working principle is learning by doing. Always up for a discussion on softwar
 
 ## My College Projects 👨‍💻
 
-- ⚡ [SIH Project][SIH Project]
-- ⚡ [Hospital System Project][Hospital System Project]
-- ⚡ [Mind Reader Project][Mind Reader Project]
+- ⚡ Water Consumption Tracker (IOT, HTML, CSS, JAVASCRIPT, PHP, MYSQL, THiNGSPEAK)
+- ⚡ Hospital System Project (JAVA, MYSQL, HTML, CSS, JAVASCRIPT)
+- ⚡ Mind Reader Project(JAVA, MYSQL, HTML, CSS, JAVASCRIPT)
 
 
 ## How To Make a Similar Overview Page for your GitHub? 😎
@@ -65,9 +65,6 @@ Thanks for reading about me. You can connect with me on:
 [github]: https://github.com/codingwithshubham
 [linkedin]: https://www.linkedin.com/in/er-shubham-singla/
 [leetcode]: https://leetcode.com/shubhamsingla/
-[Hospital System Project]:
-[Mind Reader Project]: 
-[SIH Project]: 
 [RESUME]: https://drive.google.com/file/d/13nIHK3-NtkbrbSRmhadtjJzEi2YfS1gB/view?usp=sharing
 [Algorithm repository]: https://github.com/codingwithshubham/Algorithm
 [readme repository]: https://github.com/codingwithshubham/codingwithshubham
