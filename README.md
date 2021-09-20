@@ -65,7 +65,7 @@ Thanks for reading about me. You can connect with me on:
 [github]: https://github.com/codingwithshubham
 [linkedin]: https://www.linkedin.com/in/er-shubham-singla/
 [leetcode]: https://leetcode.com/shubhamsingla/
-[RESUME]: https://drive.google.com/file/d/13nIHK3-NtkbrbSRmhadtjJzEi2YfS1gB/view?usp=sharing
+[RESUME]: https://drive.google.com/file/d/1dQb5ybhbNEhqDbUsWE3D0_D3C_vCokBz/view?usp=sharing
 [Algorithm repository]: https://github.com/codingwithshubham/Algorithm
 [readme repository]: https://github.com/codingwithshubham/codingwithshubham
 
