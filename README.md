@@ -22,10 +22,6 @@ My working principle is learning by doing. Always up for a discussion on softwar
 > Former Associate Software Developer at [**CatalystOne Solutions**](https://www.catalystone.com/)
 
 
-## RESUME 📰
-✨ [RESUME][RESUME]
-
-
 ## My Absolute Favorites 💖
 
 🦄 _CODING_.
@@ -40,16 +36,6 @@ My working principle is learning by doing. Always up for a discussion on softwar
 - ⚡ Water Consumption Tracker (IOT, HTML, CSS, JAVASCRIPT, PHP, MYSQL, THiNGSPEAK)
 - ⚡ Hospital System Project (JAVA, MYSQL, HTML, CSS, JAVASCRIPT)
 - ⚡ Mind Reader Project(JAVA, MYSQL, HTML, CSS, JAVASCRIPT)
-
-
-## How To Make a Similar Overview Page for your GitHub? 😎
-
-1. Fork this [repository][readme repository].
-2. Edit the README.md file with your info.
-3. Rename your repo to your github username in settings tab.(for example my username is codingwithshubham)
-4. You made it!
-
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff.
 
 
 ## Thank you! 🙏
